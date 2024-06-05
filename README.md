@@ -9,8 +9,6 @@ We are not professional network teachers, we are students who want to make a "fo
 need to add:
 
 - Internetprotokoll (IP)
-- Transmission Control Protocol (TCP)
-- User Datagram Protocol (UDP)
 - Internet Control Message Protocol (ICMP)
 - Hypertext Transfer Protocol (HTTP)
 - File Transfer Protocol (FTP)
