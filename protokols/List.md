@@ -1,4 +1,4 @@
-# Liste der Netzwerkprotokolle
+# List of Networkprotocols
 
 - Internetprotokoll (IP)
 - Transmission Control Protocol (TCP)
