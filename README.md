@@ -17,5 +17,3 @@ need to add:
 - Internet Message Access Protocol (IMAP)
 - Domain Name System (DNS)
 
-
-# https://cdn.discordapp.com/attachments/1261360716640948305/1262405090057257060/nexus.zip?ex=669679db&is=6695285b&hm=11dad5aaef0229998b5c94d1a2ad2d3f42ae1559e6e01fd06b0eaff3775655be&
